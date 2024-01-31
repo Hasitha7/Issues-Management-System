@@ -23,5 +23,8 @@
     ```
 3. The app will open in the browser automatically; otherwise, browse [http://localhost:3000](http://localhost:3000).
 
+![Screenshot (65)](https://github.com/Hasitha7/Issues-Management-System/assets/45654397/20b635ba-66b5-4c6e-a05b-5ed3a23cfc86)
+
+
 
 
