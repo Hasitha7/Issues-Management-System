@@ -24,9 +24,10 @@
 3. The app will open in the browser automatically; otherwise, browse [http://localhost:3000](http://localhost:3000).
 
 ![Screenshot (65)](https://github.com/Hasitha7/Issues-Management-System/assets/45654397/20b635ba-66b5-4c6e-a05b-5ed3a23cfc86)
-
 ![Screenshot (69)](https://github.com/Hasitha7/Issues-Management-System/assets/45654397/23d32845-0da2-4e5a-a95d-dc81d50f98ff)
 ![Screenshot (68)](https://github.com/Hasitha7/Issues-Management-System/assets/45654397/7c4c5b9d-c1e6-4d85-b51e-dac776961df4)
+![Screenshot (70)](https://github.com/Hasitha7/Issues-Management-System/assets/45654397/0d67b1fc-43de-4462-802f-dd175fa4a6b8)
+
 
 
 
