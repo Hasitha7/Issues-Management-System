@@ -25,6 +25,8 @@
 
 ![Screenshot (65)](https://github.com/Hasitha7/Issues-Management-System/assets/45654397/20b635ba-66b5-4c6e-a05b-5ed3a23cfc86)
 
+![Screenshot (67)](https://github.com/Hasitha7/Issues-Management-System/assets/45654397/91b24eaf-2479-4427-bbb6-994169c0fef5)
+
 
 
 
